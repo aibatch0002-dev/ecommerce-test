@@ -1,0 +1,6 @@
+{
+  "name": "Unity Super Shop - Cinematic Commercial Studio",
+  "description": "Cinematic promotional commercial video player and export suite for UNITY SUPER SHOP in Rajshahi, Bangladesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
